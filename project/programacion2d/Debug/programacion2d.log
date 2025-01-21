@@ -1,0 +1,53 @@
+﻿  main.cpp
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(145,13): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(146,13): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(181,32): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(181,28): warning C4305: 'argomento': troncamento da 'double' a 'float'
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(193,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(194,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(196,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(197,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(197,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(198,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(198,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(200,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(201,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(201,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(202,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(202,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(230,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(231,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(232,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(233,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(235,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(236,38): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(236,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(237,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(237,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(238,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(238,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(239,40): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(239,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(241,44): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(242,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(242,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(243,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(243,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(244,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(244,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(245,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(245,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(247,42): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(248,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(248,23): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(249,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(249,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(250,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(250,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(251,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+D:\2-Coding\C++\.PR2D\Practica Final\src\main.cpp(251,31): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  Vec2.cpp
+D:\2-Coding\C++\.PR2D\Practica Final\project\Vec2.cpp(111,15): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Generazione del codice in corso...
+LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  programacion2d.vcxproj -> D:\2-Coding\C++\.PR2D\Practica Final\project\Debug\programacion2d.exe

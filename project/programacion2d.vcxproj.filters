@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mazzo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Carta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\lib\litegfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Practica 2\lib\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Practica 2\lib\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Practica 2\lib\litegfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Practica 2\lib\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Practica 2\lib\Vec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\Mazzo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\Carta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\lib\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\black.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\1B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\1C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\1D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\1S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\2B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\2C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\2D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\2S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\3B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\3C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\3D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\3S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\4B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\4C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\4D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\4S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\5B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\5C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\5D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\5S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\6B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\6C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\6D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\6S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\7B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\7C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\7D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\7S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\8B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\8C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\8D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\8S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\9B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\9C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\9D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\9S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\10B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\10C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\10D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\10S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\dorso.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\gameover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\main_title.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\win.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
